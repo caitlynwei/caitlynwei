@@ -26,15 +26,9 @@ I love working at the intersection of technology and social responsibility, buil
 </table>
 
 ## 📫 Let's Connect!
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](caitlyn.wei@tufts.edu)
+	[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/caitlynwei)
 
-<p align="left">
-  <a href="caitlyn.wei@tufts.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/caitlynwei">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
 
 ---
 
