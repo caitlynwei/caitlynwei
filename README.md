@@ -99,7 +99,6 @@ www.linkedin.com/in/caitlynwei/
 
 ---
 
-## 🌟 Projects
 
 
 
