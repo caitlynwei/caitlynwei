@@ -6,11 +6,35 @@
 
 </div>
 
+<table>
+<tr>
+
+<td>
+
 ## 🌟 About Me
 
-I'm **Caitlyn**, a  **Computer Science and Data Science student** with a deep interest in **Ethical AI**. I'm dedicated to exploring how technology can be developed and deployed responsibly to create positive impact while addressing bias, fairness, and transparency in artificial intelligence systems.
+I'm **Caitlyn**, a **Computer Science and Data Science student** with a deep interest in **Ethical AI**. I'm dedicated to exploring how technology can be developed and deployed responsibly to create positive impact while addressing bias, fairness, and transparency in artificial intelligence systems.
 
 I love working at the intersection of technology and social responsibility, building solutions that not only solve technical problems but also consider their broader implications on society.
+
+</td>
+
+<td width="140">
+  <img src="https://your-image-url.com/photo.jpg" width="140" style="border-radius: 10px;">
+</td>
+</tr>
+</table>
+
+## 📫 Let's Connect!
+
+<p align="left">
+  <a href="caitlyn.wei@tufts.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/caitlynwei">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
@@ -59,14 +83,23 @@ I love working at the intersection of technology and social responsibility, buil
 
 ## 🚀 Key Projects
 
-### 📊 Project 1: [Project Name Here]
-**Description:** [Add a brief description of what this project does and why it's important]
+### 🎓 Leonard Carmichael Society Tutoring Website
+**Description:** The Leonard Carmichael Society (LCS) is a Tufts-affiliated nonprofit offering free K–12 tutoring to Medford/Somerville students.
 
-**Technologies Used:** `Technology 1` `Technology 2` `Technology 3`
+**Problem Solved:**  We collaborated closely with LCS to address pain points in tutor/tutee management and communication leading to the development of a scalable full-stack web platform using **React**, **TypeScript**, **Tailwind CSS**, **Node.js**, **Express.js**, **PostgreSQL**, and **DrizzleORM**, featuring:
 
-**Problem Solved:** [Describe the specific problem this project addresses]
+- 🧑‍💻 Role-based login systems with separate UI/UX flows for tutors, tutees, and administrators
 
-🔗 **Links:** [Repository](your-repo-link-here) | [Live Demo](your-demo-link-here)
+- 📊 An automated, optimized pairing system inspired by Gale-Shapley and PCA, replacing manual spreadsheet matching
+
+- 📬 Integrated email workflows for real-time updates and scheduling
+
+- 📌 A professional, user-friendly interface that strengthened LCS’s brand and outreach
+
+🔗 **Links:** [Repository](https://github.com/JumboCode/lcs-tutoring) [Live Demo](https://lcstutoring.vercel.app/)
+
+
+### 👀 Coming Soon - Fall Break Through Tech AI Studio Prohect
 
 ---
 
@@ -85,18 +118,7 @@ I love working at the intersection of technology and social responsibility, buil
 
 ---
 
-## 📫 Let's Connect!
 
-<p align="left">
-  <a href="caitlyn.wei@tufts.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/caitlynwei">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
 
 <div align="center">
   
