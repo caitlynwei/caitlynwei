@@ -101,21 +101,6 @@ www.linkedin.com/in/caitlynwei/
 
 ---
 
-## 🌱 Extracurriculars, Hobbies & Interests
-
-### **Leadership Activities**
-- 🏆 **[Leadership Role/Organization]:** [Brief description of your responsibilities and impact]
-- 📈 **[Leadership Role/Organization]:** [Brief description of your responsibilities and impact]
-- 🎯 **[Leadership Role/Organization]:** [Brief description of your responsibilities and impact]
-
-### **Interests & Hobbies**
-- 🔬 **Ethical AI Research:** [Brief description of your interest/involvement]
-- 🎨 **[Hobby/Interest]:** [Brief description]
-- 📚 **[Hobby/Interest]:** [Brief description]
-- 🌍 **[Hobby/Interest]:** [Brief description]
-
----
-
 
 
 <div align="center">
