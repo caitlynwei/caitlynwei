@@ -32,7 +32,8 @@ I love working at the intersection of technology and social responsibility, buil
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/caitlynwei)
 : 
 www.linkedin.com/in/caitlynwei/
-Check out my [personal website](https://caitlynwei.xyz/)
+
+<p>Check out my [personal website!](https://caitlynwei.xyz/)</p>
 
 ---
 
