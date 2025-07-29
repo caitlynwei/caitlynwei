@@ -19,8 +19,8 @@ I love working at the intersection of technology and social responsibility, buil
 
 </td>
 
-<td width="140">
-  <img src="https://your-image-url.com/photo.jpg" width="140" style="border-radius: 10px;">
+<td width="325">
+  <img src="github_lcs.png" width="325"">
 </td>
 </tr>
 </table>
