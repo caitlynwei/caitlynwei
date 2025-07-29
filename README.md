@@ -1,120 +1,65 @@
-![Header](github_banner.png)
+<!--![Header](github_banner.png)-->
+
 <div align="center">
   
-<!-- Animated typing effect - you can implement this with a service like readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&duration=2500&pause=1000&color=E74226&background=FAF7E600&center=true&vCenter=true&width=435&lines=I'm+a+data+scientist;I'm+passionate+about+AI;I'm+always+trying+new+things;Hi,++I'm+Caitlyn!)](https://git.io/typing-svg)
 
 </div>
 
 ## 🌟 About Me
 
-I'm **Caitlyn**, a passionate **Computer Science and Data Science student** with a deep interest in **Ethical AI**. I'm dedicated to exploring how technology can be developed and deployed responsibly to create positive impact while addressing bias, fairness, and transparency in artificial intelligence systems.
+I'm **Caitlyn**, a  **Computer Science and Data Science student** with a deep interest in **Ethical AI**. I'm dedicated to exploring how technology can be developed and deployed responsibly to create positive impact while addressing bias, fairness, and transparency in artificial intelligence systems.
 
 I love working at the intersection of technology and social responsibility, building solutions that not only solve technical problems but also consider their broader implications on society.
 
-</div>
-
-</div>
-
 ---
 
-<!-- You can also add background images to other sections -->
-<div style="background-image: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(168, 85, 247, 0.1)), url('your-tech-stack-bg-image-url'); background-size: cover; padding: 30px; border-radius: 10px; margin: 20px 0;">
-
-<div style="background-color: rgba(255, 255, 255, 0.95); padding: 25px; border-radius: 8px;">
-
 ## 🛠️ My Tech Stack
 
 ### **Programming Languages**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
 
-### **Web Development**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-### **Data Science & Analytics**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-</p>
 
-### **Design & Development Tools**
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/notion/notion-icon.s
 
-## 🛠️ My Tech Stack
+### **ML/DL**
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-### **Programming Languages**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
+### **Misc**
 
-### **Web Development**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-</p>
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### **Data Science & Analytics**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-</p>
 
-### **Design & Development Tools**
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" alt="Notion" width="40" height="40"/>
-</p>
+
+
+
+
 
 ---
 
 ## 🚀 Key Projects
 
 ### 📊 Project 1: [Project Name Here]
-**Description:** [Add a brief description of what this project does and why it's important]
-
-**Technologies Used:** `Technology 1` `Technology 2` `Technology 3`
-
-**Problem Solved:** [Describe the specific problem this project addresses]
-
-🔗 **Links:** [Repository](your-repo-link-here) | [Live Demo](your-demo-link-here)
-
----
-
-### 🤖 Project 2: [Project Name Here]
-**Description:** [Add a brief description of what this project does and why it's important]
-
-**Technologies Used:** `Technology 1` `Technology 2` `Technology 3`
-
-**Problem Solved:** [Describe the specific problem this project addresses]
-
-🔗 **Links:** [Repository](your-repo-link-here) | [Live Demo](your-demo-link-here)
-
----
-
-### 💡 Project 3: [Project Name Here]
 **Description:** [Add a brief description of what this project does and why it's important]
 
 **Technologies Used:** `Technology 1` `Technology 2` `Technology 3`
@@ -142,13 +87,11 @@ I love working at the intersection of technology and social responsibility, buil
 
 ## 📫 Let's Connect!
 
-I'm always excited to connect with fellow developers, data scientists, and anyone passionate about ethical technology!
-
 <p align="left">
-  <a href="mailto:your.email@example.com">
+  <a href="caitlyn.wei@tufts.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://linkedin.com/in/caitlynwei">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -157,20 +100,6 @@ I'm always excited to connect with fellow developers, data scientists, and anyon
 
 <div align="center">
   
-**"Technology is best when it brings people together and creates a more equitable world."**
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=your-github-username&icon=0&color=0)](https://visitcount.itsvg.in)
-
+**"Life's like a movie, write your own ending. Keep believing, keep pretending."**
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  
-![Caitlyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-</div>
