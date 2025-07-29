@@ -99,7 +99,7 @@ I love working at the intersection of technology and social responsibility, buil
 🔗 **Links:** [Repository](https://github.com/JumboCode/lcs-tutoring) [Live Demo](https://lcstutoring.vercel.app/)
 
 
-### 👀 Coming Soon - Fall Break Through Tech AI Studio Prohect
+### 👀 Coming Soon - Fall Break Through Tech AI Studio Project
 
 ---
 
