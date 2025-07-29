@@ -33,7 +33,7 @@ I love working at the intersection of technology and social responsibility, buil
 : 
 www.linkedin.com/in/caitlynwei/
 
-<p>Check out my [personal website!](https://caitlynwei.xyz/)</p>
+[![Check out my personal website!](github_web.png)](https://caitlynwei.xyz/)
 
 ---
 
