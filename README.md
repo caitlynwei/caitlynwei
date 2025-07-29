@@ -1,8 +1,8 @@
-
+![Header](github_banner.png)
 <div align="center">
   
 <!-- Animated typing effect - you can implement this with a service like readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&duration=2500&pause=1000&color=E74226&background=FAF7E600&center=true&vCenter=true&width=435&lines=I'm+a+data+scientist;I'm+passionate+about+AI;I'm+always+trying+new+things;Hi!+I'm+Caitlyn!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&duration=2500&pause=1000&color=E74226&background=FAF7E600&center=true&vCenter=true&width=435&lines=I'm+a+data+scientist;I'm+passionate+about+AI;I'm+always+trying+new+things;Hi,++I'm+Caitlyn!)](https://git.io/typing-svg)
 
 </div>
 
