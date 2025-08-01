@@ -103,6 +103,22 @@ I love working at the intersection of technology and social responsibility, buil
 
 🔗 **Links:** [Repository](https://github.com/JumboCode/lcs-tutoring) [Live Demo](https://lcstutoring.vercel.app/)
 
+## 🌟 Projects
+### **🏠 NYC Airbnb Price Prediction**
+
+**Description:** An end-to-end ML production for several price prediction models.
+
+**Problem Solved:**  The goal of this project was to predict the price of an Airbnb listing accurately while also identifying whether a listing is priced higher or lower than average. To achieve this, I implemented a full ML pipeline using **Python**, **Pandas**, **Scikit-learn**, and **Seaborn** with the following key features:
+
+- 🧼 Clean and prepare NYC Airbnb listing dataset
+
+- 📈 Linear Regression and SGD Regressor models to predict continuous numerical price label
+
+- 👯‍♀️ Logisitic Regression and Decision Tree models to predict whether a listing is above or below the mean listing price
+
+- 🧮 Model performance analysis and comparison
+
+🔗 **Links:** [Repository](https://github.com/caitlynwei/airbnb-price-prediction-regression-and-classification)
 
 ### 👀 Coming Soon - Fall Break Through Tech AI Studio Project
 
