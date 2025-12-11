@@ -120,7 +120,19 @@ I love working at the intersection of technology and social responsibility, buil
 
 🔗 **Links:** [Repository](https://github.com/caitlynwei/airbnb-price-prediction-regression-and-classification)
 
-### 👀 Coming Soon - Fall Break Through Tech AI Studio Project
+### **🌎 Global Carbon Emissions Timeseries Forecast Model**
+**Description:** Multiple an end to end ML production for multiple timeseries models ((S)ARIMA(X)) that predict carbon emissons
+**Problem Solved:**  The goal of this project was to predict the price of an Airbnb listing accurately while also identifying whether a listing is priced higher or lower than average. To achieve this, I implemented a full ML pipeline using **Python**, **Pandas**, **Scikit-learn**, and **Seaborn** with the following key features:
+
+- 🗂️ Clean and transformed data in [Global Carbon Project Emissions dataset](https://zenodo.org/records/14106218) to increase stationarity
+
+- 🔨 Decomposed training data into components (Seasonal/Long Term) using ACF PACF graph analysis
+
+- 📊 Tuned hyperparameters for (S)ARIMA(X) timeseries models using ACF and PACF graph analysis
+
+- ✅ Evaluated model performance through AIC and BIC
+
+🔗 **Links:** [Repository](https://github.com/caitlynwei/airbnb-price-prediction-regression-and-classification)](https://github.com/bttai-c02-emissions-2025/co2-forecast-model)
 
 ---
 
