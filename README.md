@@ -132,7 +132,7 @@ I love working at the intersection of technology and social responsibility, buil
 
 - ✅ Evaluated model performance through AIC and BIC
 
-🔗 **Links:** [Repository](https://github.com/caitlynwei/airbnb-price-prediction-regression-and-classification)](https://github.com/bttai-c02-emissions-2025/co2-forecast-model)
+🔗 **Links:** [Repository](https://github.com/bttai-c02-emissions-2025/co2-forecast-model)
 
 ---
 
