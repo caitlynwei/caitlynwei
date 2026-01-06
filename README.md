@@ -88,20 +88,21 @@ I love working at the intersection of technology and social responsibility, buil
 
 ---
 
-## 🚀 Featured Project: 🎓 Leonard Carmichael Society Tutoring Website
-**Description:** The Leonard Carmichael Society (LCS) is a Tufts-affiliated nonprofit offering free K–12 tutoring to Medford/Somerville students.
+## 🚀 Featured Project: **🌎 Global Carbon Emissions Timeseries Forecast Model**
+**Description:** Multiple end-to-end ML production for (S)ARIMA(X) timeseries models that predict carbon emissons. 
+**Problem Solved:**  The goal of this project was to predict 5 years of total emission data for various selected countries. I used **MATLAB_R2025a** and various Matlab tools to create a ARIMA time series model which predicts short term carbon emission trends.
 
-**Problem Solved:**  We collaborated closely with LCS to **_address pain points in tutor/tutee management and communication_** leading to the development of a scalable full-stack web platform using **React**, **TypeScript**, **Tailwind CSS**, **Node.js**, **Express.js**, **PostgreSQL**, and **DrizzleORM**, featuring:
+- 🗂️ Cleaned and transformed [Global Carbon Project Emissions dataset](https://zenodo.org/records/14106218) to increase stationarity using autonomous tools such as **Find and Remove Trends** 
 
-- 🧑‍💻 Role-based login systems with **separate UI/UX flows for tutors, tutees, and administrators**
+- 🔨 Decomposed training data and modeled individual components using **Curve Fitter** and **ARIMA** model
 
-- 📊 An automated, **optimized pairing system** inspired by Gale-Shapley and PCA, replacing manual spreadsheet matching
+- 📊 Tuned hyperparameters for (S)ARIMA(X) timeseries models using **ACF and PACF graph analysis** and gridsearch methodologies
 
-- 📬 **Integrated email workflows** for real-time updates and scheduling
+- ✅ Evaluated model performance through **AIC** and **BIC** statistical measures
 
-- 📌 A professional, user-friendly interface that **strengthened LCS’s brand and outreach**
+- 👩🏻‍💼 Presented final model and findings at Mathworks Natick
 
-🔗 **Links:** [Repository](https://github.com/JumboCode/lcs-tutoring) [Live Demo](https://lcstutoring.vercel.app/)
+🔗 **Links:** [Repository](https://github.com/bttai-c02-emissions-2025/co2-forecast-model) [USA ARIMA Model](https://github.com/bttai-c02-emissions-2025/co2-forecast-model/USA)
 
 ## 🌟 Projects
 ### **🏠 NYC Airbnb Price Prediction**
@@ -120,20 +121,22 @@ I love working at the intersection of technology and social responsibility, buil
 
 🔗 **Links:** [Repository](https://github.com/caitlynwei/airbnb-price-prediction-regression-and-classification)
 
-### **🌎 Global Carbon Emissions Timeseries Forecast Model**
-**Description:** Multiple an end to end ML production for multiple timeseries models ((S)ARIMA(X)) that predict carbon emissons
-**Problem Solved:**  The goal of this project was to predict the price of an Airbnb listing accurately while also identifying whether a listing is priced higher or lower than average. To achieve this, I implemented a full ML pipeline using **Python**, **Pandas**, **Scikit-learn**, and **Seaborn** with the following key features:
+### **🎓 Leonard Carmichael Society Tutoring Website**
+**Description:** The Leonard Carmichael Society (LCS) is a Tufts-affiliated nonprofit offering free K–12 tutoring to Medford/Somerville students.
 
-- 🗂️ Clean and transformed data in [Global Carbon Project Emissions dataset](https://zenodo.org/records/14106218) to increase stationarity
+**Problem Solved:**  We collaborated closely with LCS to **_address pain points in tutor/tutee management and communication_** leading to the development of a scalable full-stack web platform using **React**, **TypeScript**, **Tailwind CSS**, **Node.js**, **Express.js**, **PostgreSQL**, and **DrizzleORM**, featuring:
 
-- 🔨 Decomposed training data into components (Seasonal/Long Term) using ACF PACF graph analysis
+- 🧑‍💻 Role-based login systems with **separate UI/UX flows for tutors, tutees, and administrators**
 
-- 📊 Tuned hyperparameters for (S)ARIMA(X) timeseries models using ACF and PACF graph analysis
+- 📊 An automated, **optimized pairing system** inspired by Gale-Shapley and PCA, replacing manual spreadsheet matching
 
-- ✅ Evaluated model performance through AIC and BIC
+- 📬 **Integrated email workflows** for real-time updates and scheduling
 
-🔗 **Links:** [Repository](https://github.com/bttai-c02-emissions-2025/co2-forecast-model)
+- 📌 A professional, user-friendly interface that **strengthened LCS’s brand and outreach**
 
+🔗 **Links:** [Repository](https://github.com/JumboCode/lcs-tutoring) [Live Demo](https://lcstutoring.vercel.app/)
+
+### 
 ---
 
 
