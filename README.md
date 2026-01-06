@@ -90,6 +90,7 @@ I love working at the intersection of technology and social responsibility, buil
 
 ## 🚀 Featured Project: **🌎 Global Carbon Emissions Timeseries Forecast Model**
 **Description:** Multiple end-to-end ML production for (S)ARIMA(X) timeseries models that predict carbon emissons. 
+
 **Problem Solved:**  The goal of this project was to predict 5 years of total emission data for various selected countries. I used **MATLAB_R2025a** and various Matlab tools to create a ARIMA time series model which predicts short term carbon emission trends.
 
 - 🗂️ Cleaned and transformed [Global Carbon Project Emissions dataset](https://zenodo.org/records/14106218) to increase stationarity using autonomous tools such as **Find and Remove Trends** 
